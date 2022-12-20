@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_x7p",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "Demo",
+			"table": "Sample"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

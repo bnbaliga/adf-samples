@@ -1,0 +1,9 @@
+{
+	"name": "df-fim-infapp-dev-cus-demo2",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20c2fe26-ba17-4f84-8ecf-f8aebf2c00af",
+		"tenantId": "a79a9d63-7f9b-498d-adff-e17197fb1575"
+	}
+}
